@@ -32,6 +32,11 @@ e. Mahasiswa mampu memahami konsep Graphical User Interface (GUI) MVVM.
 	Tidak untuk menjadi konsumsi/kepentingan umum.
 	Hanya untuk melengkapi tugas DPBO 2023.*
 
+### **Alasan**
+Seperti yang kita ketahui bersama bahwa Model View ViewModel MVVM adalah pola desain arsitektur perangkat lunak yang sering digunakan dalam pengembangan aplikasi berbasis antarmuka pengguna UI. Berikut ini merupakan dipandang untuk perlu diketahui beberapa alasan mengapa perlu menggunakan model MVVM:
+1. Pemisahan antara Logika Bisnis dan Tampilan
+2. Pengujian yang Lebih Mudah
+3. Dukungan untuk Perubahan Tampilan
 
 ### **Catatan**
 - *Jika terjadi hal kesalahan teknis/program error atau lainnya, dengan hormat mohon untuk melakukan validasi kepada saya, karena tentunya hal tersebut dimungkinkan terjadi diluar prakiraan/dugaan. Demikian, harap untuk menjadi maklum. Atas Perhatian dan Kerjasamanya diucapkan terima kasih*
